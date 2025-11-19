@@ -46,7 +46,7 @@ export class AppointmentFormComponent {
   ];
 
   hygienists = [
-    { value: 'desiree', label: 'Desireé' },
+    { value: 'desiree', label: 'Desirée' },
     { value: 'marta', label: 'Marta' }
   ];
 
